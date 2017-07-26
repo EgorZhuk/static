@@ -15,50 +15,28 @@ watertaxi-qt,9471,Test Stub Data,ferry
 watertaxi-qt,59,Test Stub Data,ferry
 watertaxi-qt,7390,Test Stub Data,ferry
 watertaxi-qt,4579,Test Stub Data,ferry
-goorange-qt,1690990,_?Bus?,bus
-goorange-qt,1016,_301 - RJ2,bus
-goorange-qt,1017,_302 - RJ6,bus
-goorange-qt,1001,_303 - Toot,bus
-goorange-qt,1002,_304 Fuso 42,bus
-goorange-qt,2234342,_305 - Coaster RE7836,bus
-goorange-qt,1013,_306 - 40 Lemon,bus
-goorange-qt,1018,_307 - 300,bus
-goorange-qt,1004,_308 - 38,bus
-goorange-qt,1003,_309 - 89,bus
-goorange-qt,1014,_310 - 79,bus
-goorange-qt,1046,_311 - B12,bus
-goorange-qt,31239,_312 - B12B,bus
-goorange-qt,2234344,_313 - Rays Hino DWP879,bus
-goorange-qt,2234345,_314 Airport Hino FGF760,bus
-goorange-qt,2234300,_315 - King Long,bus
-goorange-qt,115259,_3xx RJ4 Cardrona,bus
-goorange-qt,1186728,_Airport bus,bus
-goorange-qt,31240,_Carols Van,bus
-goorange-qt,1095979,_Central #1,bus
-goorange-qt,1095980,_Central #2,bus
-goorange-qt,1095981,_Central #3,bus
-goorange-qt,1095975,_Johnston`s #1,bus
-goorange-qt,1095976,_Johnston`s #2,bus
-goorange-qt,1095977,_Johnston`s #3,bus
-goorange-qt,1095978,_Johnston`s #4,bus
-goorange-qt,2234356,_M22 - KDN522,bus
-goorange-qt,2234357,_M59 - JHB559,bus
-goorange-qt,2234355,_M89 - JHT689,bus
-goorange-qt,2234333,_Pro Bus,bus
-goorange-qt,1566512,_Prof Touring #1,bus
-goorange-qt,1566514,_Prof Touring #2,bus
-goorange-qt,2234351,_PTL146 - TR1648,bus
-goorange-qt,2234354,_PTL347 - TR1649,bus
-goorange-qt,2234352,_PTL7 - YQ7987,bus
-goorange-qt,2234353,_PTL8 - GSH258,bus
-goorange-qt,1566627,_QTN TAXIS VAN,bus
-goorange-qt,1566628,_SUPERSHUTTLE,bus
-goorange-qt,2234346,_T1016 - AUB467,bus
-goorange-qt,2234350,_T1018 - AWM425,bus
-goorange-qt,2234348,_T1028 - ATS467,bus
-goorange-qt,2234349,_T1029 - KFM550,bus
-goorange-qt,2234347,_T17 EGH920,bus
-goorange-qt,2234341,_Taxi,bus
+goorange-qt,_302 - RJ6,_302 - RJ6,bus
+goorange-qt,_303 - Toot,_303 - Toot,bus
+goorange-qt,_304 Fuso 42,_304 Fuso 42,bus
+goorange-qt,_306 - 40 Lemon,_306 - 40 Lemon,bus
+goorange-qt,_307 - 300,_307 - 300,bus
+goorange-qt,_308 - 38,_308 - 38,bus
+goorange-qt,_309 - 89,_309 - 89,bus
+goorange-qt,_310 - 79,_310 - 79,bus
+goorange-qt,_311 - B12,_311 - B12,bus
+goorange-qt,_312 - B12B,_312 - B12B,bus
+goorange-qt,_3xx RJ4 Cardrona,_3xx RJ4 Cardrona,bus
+goorange-qt,_M22 - KDN522,_M22 - KDN522,bus
+goorange-qt,_PTL146 - TR1648,_PTL146 - TR1648,bus
+goorange-qt,_PTL347 - TR1649,_PTL347 - TR1649,bus
+goorange-qt,_PTL7 - YQ7987,_PTL7 - YQ7987,bus
+goorange-qt,_PTL8 - GSH258,_PTL8 - GSH258,bus
+goorange-qt,_T1016 - AUB467,_T1016 - AUB467,bus
+goorange-qt,_T1018 - AWM425,_T1018 - AWM425,bus
+goorange-qt,_T1028 - ATS467,_T1028 - ATS467,bus
+goorange-qt,_T1029 - KFM550,_T1029 - KFM550,bus
+goorange-qt,_T17 EGH920,_T17 EGH920,bus
+goorange-qt,_Spare,_Spare,bus
 nzski-qt,C1,MAN,shuttle
 nzski-qt,C2,MAN,shuttle
 nzski-qt,C3,Isuzu,shuttle
