@@ -1,15 +1,15 @@
 shiftId,time,from,to,routeShortName
 1,3:35 PM,frankton,kelvin heights,6
 1,3:50 PM,kelvin heights,frankton,6
-1,4:05 PM,frankton,lake hayes,12
-1,4:20 PM,lake hayes,frankton,12
+1,4:05 PM,frankton,lakes hayes,12
+1,4:20 PM,lakes hayes,frankton,12
 1,4:35 PM,frankton,kelvin heights,6
 1,4:50 PM,kelvin heights,frankton,6
-1,5:05 PM,frankton,lake hayes,12
-1,5:20 PM,lake hayes,frankton,12
+1,5:05 PM,frankton,lakes hayes,12
+1,5:20 PM,lakes hayes,frankton,12
 1,5:35 PM,frankton,kelvin heights,6
 1,5:50 PM,kelvin heights,frankton,6
-1,6:05 PM,frankton,lake hayes,10
+1,6:05 PM,frankton,lakes hayes,10
 1,6:35 PM,arrowtown,queenstown,8
 1,7:05 PM,queenstown,arthurs point,8
 1,7:35 PM,arrowtown,frankton,10
@@ -134,11 +134,11 @@ shiftId,time,from,to,routeShortName
 ,,,,
 8,5:45 PM,queenstown,airport,11
 8,6:15 PM,airport,queenstown,11
-9,7:20 AM,lake hayes est,frankton,12
-9,7:35 AM,frankton,lake hayes est,12
-9,7:50 AM,lake hayes est,frankton,12
-9,8:05 AM,frankton,lake hayes est,12
-9,8:20 AM,lake hayes est,frankton,12
+9,7:20 AM,lakes hayes est,frankton,12
+9,7:35 AM,frankton,lakes hayes est,12
+9,7:50 AM,lakes hayes est,frankton,12
+9,8:05 AM,frankton,lakes hayes est,12
+9,8:20 AM,lakes hayes est,frankton,12
 9,8:35 AM,frankton,kelvin heights,6
 9,8:50 AM,kelvin heights,frankton,6
 9,9:35 AM,frankton,arrowtown,12
