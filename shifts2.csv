@@ -95,9 +95,9 @@ B-6-12-6-12,6:50 PM,fernhill,queenstown,9
 B-6-12-6-12,7:05 PM,queenstown,fernhill,9
 B-6-12-6-12,7:20 PM,fernhill,queenstown,9
 C-12,6:57 AM,frankton,arrowtown,10
-C-12,7:05 AM,arthurs point,queenstown,8
+C-12,7:05 AM,arthurs point,arthurs point,8
 C-12,7:35 AM,queenstown,arthurs point,8
-C-12,8:05 AM,arthurs point,queenstown,8
+C-12,8:05 AM,arthurs point,arthurs point,8
 D-10-12-10-2-5-2,7:05 AM,frankton,queenstown,11
 D-10-12-10-2-5-2,7:20 AM,queenstown,sunshine bay,9
 D-10-12-10-2-5-2,7:32 AM,sunshine bay,queenstown,9
@@ -120,7 +120,7 @@ D-10-12-10-2-5-2,1:25 PM,remarkables park,queenstown,11
 D-10-12-10-2-5-2,1:45 PM,queenstown,remarkables park,11
 D-10-12-10-2-5-2,2:10 PM,remarkables park,queenstown,11
 D-10-12-10-2-5-2,2:30 PM,queenstown,remarkables park,11
-D-10-12-10-2-5-2,2:45 PM,remarkables park,queenstown,11
+D-10-12-10-2-5-2,2:55 PM,remarkables park,queenstown,11
 D-10-12-10-2-5-2,3:15 PM,queenstown,remarkables park,11
 D-10-12-10-2-5-2,3:40 PM,remarkables park,queenstown,11
 D-10-12-10-2-5-2,4:00 PM,queenstown,remarkables park,11
@@ -148,7 +148,7 @@ E-8-12-8-5,7:30 AM,remarkables park,queenstown,11
 E-8-12-8-5,7:50 AM,queenstown,sunshine bay,9
 E-8-12-8-5,8:02 AM,sunshine bay,queenstown,9
 E-8-12-8-5,8:20 AM,queenstown,remarkables park,11
-E-8-12-8-5,8:45 PM,remarkables park,queenstown,11
+E-8-12-8-5,8:45 AM,remarkables park,queenstown,11
 E-8-12-8-5,9:00 AM,queenstown,remarkables park,11
 E-8-12-8-5,9:25 AM,remarkables park,queenstown,11
 E-8-12-8-5,9:45 AM,queenstown,remarkables park,11
@@ -187,13 +187,13 @@ F-9,8:20 AM,lakes hayes est,frankton,12
 F-9,8:35 AM,frankton,kelvin heights,6
 F-9,8:50 AM,kelvin heights,frankton,6
 F-9,9:35 AM,frankton,arrowtown,10
-F-9,10:05 AM,arrowtown,queenstown,8
+F-9,10:05 AM,arrowtown,arthurs point,8
 F-9,10:35 AM,queenstown,arthurs point,8
 F-9,11:05 AM,arrowtown,frankton,10
 F-9,11:35 AM,frankton,kelvin heights,6
 F-9,11:50 AM,kelvin heights,frankton,6
 F-9,12:05 PM,frankton,arrowtown,10
-F-9,12:35 PM,arrowtown,queenstown,8
+F-9,12:35 PM,arrowtown,arthurs point,8
 F-9,1:05 PM,queenstown,arthurs point,8
 F-9,1:35 PM,arrowtown,frankton,10
 F-9,2:05 PM,frankton,arrowtown,10
@@ -209,23 +209,23 @@ G-1,5:20 PM,lakes hayes,frankton,12
 G-1,5:35 PM,frankton,kelvin heights,6
 G-1,5:50 PM,kelvin heights,frankton,6
 G-1,6:05 PM,frankton,arrowtown,10
-G-1,6:35 PM,arrowtown,queenstown,8
+G-1,6:35 PM,arrowtown,arthurs point,8
 G-1,7:05 PM,queenstown,arthurs point,8
 G-1,7:35 PM,arrowtown,frankton,10
 G-1,8:35 PM,frankton,arrowtown,10
-G-1,9:05 PM,arrowtown,queenstown,8
+G-1,9:05 PM,arrowtown,arthurs point,8
 G-1,9:35 PM,queenstown,arthurs point,8
 G-1,10:05 PM,arrowtown,frankton,10
 G-1,10:35 PM,frankton,queenstown,11
 H-6,3:05 PM,frankton,arrowtown,10
 H-6,3:20 PM,arrowtown,frankton,10
 H-6,4:20 PM,frankton,arrowtown,10
-H-6,4:50 PM,arrowtown,queenstown,8
+H-6,4:50 PM,arrowtown,arthurs point,8
 H-6,5:20 PM,queenstown,arthurs point,8
 H-6,5:50 PM,arrowtown,frankton,10
 H-6,6:25 PM,frankton,queenstown,11
 H-6,6:50 PM,queenstown,frankton,11
-I-11,3:55 PM,airport,remarkables park,11
+I-11,3:55 PM,airport,queenstown,11
 I-11,4:10 PM,remarkables park,queenstown,11
 I-11,4:30 PM,queenstown,remarkables park,11
 I-11,5:10 PM,remarkables park,queenstown,11
